@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gamecommercefu.s3-us-west-2.amazonaws.com/static/profile.jpg" align="center" height="400" width="400" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
