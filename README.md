@@ -103,7 +103,8 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->   
+<!-- BLOG-POST-LIST:START -->
+- [How to design a simple and beautiful Navbar using NextJS and TailwindCSS](https://dev.to/andrewespejo/how-to-design-a-simple-and-beautiful-navbar-using-nextjs-and-tailwindcss-26p1)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
