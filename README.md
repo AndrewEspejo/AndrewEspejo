@@ -6,7 +6,7 @@
 ### <div align="center">I 'm Andrés Espejo. I'm Frontend developer 👨‍💻 learning Vue and Node JS 🚀</div>  
   
 
-- 🔭 I’m currently work on my Portfolio and an Universities website of my local city (Medellín- Colombia)  
+- 🔭 I’m currently work like Software Engineer at Okorum Technologies
   
 
 - 🌱 I’m currently learning Docker, Next JS, Vue, Strapi, Node JS .  
